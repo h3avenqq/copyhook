@@ -1,0 +1,16 @@
+D:\Projects\C#\hooks\bin\Debug\hooks.exe.config
+D:\Projects\C#\hooks\bin\Debug\hooks.exe
+D:\Projects\C#\hooks\bin\Debug\hooks.pdb
+D:\Projects\C#\hooks\obj\Debug\hooks.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\hooks\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\hooks\obj\Debug\App.g.cs
+D:\Projects\C#\hooks\obj\Debug\hooks_MarkupCompile.cache
+D:\Projects\C#\hooks\obj\Debug\hooks_MarkupCompile.lref
+D:\Projects\C#\hooks\obj\Debug\MainWindow.baml
+D:\Projects\C#\hooks\obj\Debug\hooks.g.resources
+D:\Projects\C#\hooks\obj\Debug\hooks.Properties.Resources.resources
+D:\Projects\C#\hooks\obj\Debug\hooks.csproj.GenerateResource.cache
+D:\Projects\C#\hooks\obj\Debug\hooks.csproj.CoreCompileInputs.cache
+D:\Projects\C#\hooks\obj\Debug\hooks.exe
+D:\Projects\C#\hooks\obj\Debug\hooks.pdb
+D:\Projects\C#\hooks\obj\Debug\hooks.csproj.AssemblyReference.cache
